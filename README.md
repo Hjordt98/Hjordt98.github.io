@@ -1,1 +1,1 @@
-# [Go to landing page](https://hjordt98.github.io/HTML/a).
+# [Go to landing page](https://hjordt98.github.io/HTML/landing_page).
